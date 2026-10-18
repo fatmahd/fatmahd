@@ -2,10 +2,9 @@
 
 # Fatma Haddad
 
+### SOC Analyst | Cybersecurity | DevSecOps
 
-### SOC Analyst · Cybersecurity · DevSecOps
-
-I build practical security operations and infrastructure solutions — from threat detection and incident response to secure CI/CD pipelines.
+Security monitoring, incident response, and automation for resilient infrastructure.
 
 <a href="mailto:fatmahaddad793@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-24d0bf?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Fatma" /></a>
 <a href="https://www.linkedin.com/in/fatma-haddad-8574b3206/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
@@ -15,37 +14,31 @@ I build practical security operations and infrastructure solutions — from thre
 
 ---
 
-## About me
+## Profile
 
-I am a SOC & NOC Analyst with hands-on experience in security monitoring, alert investigation, infrastructure observability, and incident response. I work with both established and open-source security platforms, and enjoy connecting detection tools to clear, traceable response workflows.
+SOC & NOC Analyst experienced in security monitoring, alert investigation, infrastructure observability, and incident response. I connect detection and threat-intelligence tools to structured, traceable response workflows.
 
-My background also includes DevSecOps and DevOps: building CI/CD pipelines, scanning container images, managing secrets, and deploying applications to Kubernetes.
+My background also includes DevSecOps and DevOps, with hands-on work in secure CI/CD, container security, secrets management, and Kubernetes deployments.
 
-## What I work on
+## Areas of focus
 
-- **SOC operations:** investigate and qualify alerts with FortiSIEM; deploy and tune Wazuh and Suricata.
-- **Incident response & threat intelligence:** manage cases with TheHive and Cortex, enrich indicators with MISP, and automate workflows with Shuffle.
-- **Monitoring & observability:** monitor infrastructure and services using Prometheus, Grafana, ELK Stack, and Loki.
-- **DevSecOps:** integrate SonarQube, Trivy, HashiCorp Vault, Docker, and Kubernetes into secure delivery pipelines.
-- **Infrastructure & networking:** administer Linux and Windows environments, Active Directory, VMware, and network services.
+- **Security operations:** alert investigation with FortiSIEM; SIEM and intrusion detection with Wazuh and Suricata.
+- **Incident response:** case management with TheHive and Cortex; threat-intelligence enrichment with MISP; SOAR with Shuffle.
+- **Observability:** infrastructure monitoring and log analysis with Prometheus, Grafana, ELK Stack, and Loki.
+- **Secure delivery:** CI/CD pipelines with SonarQube, Trivy, HashiCorp Vault, Docker, and Kubernetes.
+- **Infrastructure:** Linux and Windows administration, Active Directory, VMware, and network services.
 
-## Featured projects
+## Featured project
 
 ### [AI-Driven SOC Lab Automation](https://github.com/fatmahd/Soc-Lab-Automation)
 
-A hands-on SOC lab that brings together Linux and Windows event detection, Wazuh, automated incident creation in TheHive, observable enrichment with Cortex and MISP, and Shuffle SOAR workflows. Analyst approval stays in the loop for response actions.
+A practical SOC lab that transforms Linux and Windows security events into actionable incidents. Wazuh detects threats, a Python integration creates cases in TheHive, Cortex and MISP enrich observables, and Shuffle coordinates response workflows with the analyst in the loop.
 
 `Wazuh` · `TheHive` · `Cortex` · `MISP` · `Shuffle` · `Python` · `Linux` · `Windows`
 
-### [Portfolio website](https://github.com/fatmahd/Portfolio_Fatma)
+## Technical toolkit
 
-A responsive portfolio presenting my SOC, cybersecurity, DevSecOps, and infrastructure experience.
-
-`HTML` · `CSS` · `JavaScript`
-
-## Technologies & tools
-
-**SOC, SIEM & threat intelligence**
+**SOC & threat intelligence**
 
 ![FortiSIEM](https://img.shields.io/badge/FortiSIEM-253746?style=flat-square)
 ![Wazuh](https://img.shields.io/badge/Wazuh-3A78B4?style=flat-square)
@@ -62,7 +55,7 @@ A responsive portfolio presenting my SOC, cybersecurity, DevSecOps, and infrastr
 ![Elastic Stack](https://img.shields.io/badge/ELK_Stack-005571?style=flat-square&logo=elastic&logoColor=white)
 ![Loki](https://img.shields.io/badge/Loki-F5A623?style=flat-square)
 
-**DevSecOps, containers & automation**
+**DevSecOps & automation**
 
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
@@ -88,11 +81,16 @@ A responsive portfolio presenting my SOC, cybersecurity, DevSecOps, and infrastr
 
 ## Experience
 
-- **SOC Analyst Level 1 · Poulina Group Holding** — September 2025–present<br />Security alert investigation, infrastructure monitoring, Wazuh SIEM deployment, Suricata intrusion detection, and SOAR/threat-intelligence workflows.
-- **DevSecOps Intern · KMF Business Solution** — January–June 2025<br />Secure CI/CD for a .NET application on Kubernetes, with code and image scanning, secrets management, monitoring, and deployment automation.
-- **DevOps Intern · KMF Business Solution** — June–August 2024<br />VMware and Veeam administration, CI/CD pipelines, and configuration automation with Ansible.
-- **Final-year project intern · Datasphera** — January–June 2023<br />Angular e-commerce interfaces, PrestaShop REST API integration, and a customer-support chatbot.
-- **Networks & Systems Intern · Tunisie Telecom** — June–August 2022<br />Network equipment, Windows systems, and DHCP, DNS, and web services.
+- **SOC Analyst Level 1 · Poulina Group Holding** | September 2025–present
+  Investigate security alerts and monitor infrastructure; deploy Wazuh and Suricata; support SOAR and threat-intelligence workflows.
+- **DevSecOps Intern · KMF Business Solution** | January–June 2025
+  Built a secure CI/CD pipeline for a .NET application on Kubernetes, integrating code and image scanning, secrets management, monitoring, and deployment automation.
+- **DevOps Intern · KMF Business Solution** | June–August 2024
+  Administered VMware and Veeam environments and automated CI/CD and configuration workflows.
+- **Final-year project intern · Datasphera** | January–June 2023
+  Developed Angular e-commerce interfaces, integrated the PrestaShop REST API, and added a customer-support chatbot.
+- **Networks & Systems Intern · Tunisie Telecom** | June–August 2022
+  Configured network equipment, Windows systems, and DHCP, DNS, and web services.
 
 ## Education
 
@@ -107,6 +105,6 @@ French · English · German
 
 <div align="center">
 
-Open to connecting with people working in SOC operations, cybersecurity, and DevSecOps.
+Interested in SOC operations, cybersecurity, and DevSecOps opportunities.
 
 </div>
