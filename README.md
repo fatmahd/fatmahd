@@ -2,6 +2,7 @@
 
 # Fatma Haddad
 
+
 ### SOC Analyst · Cybersecurity · DevSecOps
 
 I build practical security operations and infrastructure solutions — from threat detection and incident response to secure CI/CD pipelines.
